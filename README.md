@@ -12,6 +12,8 @@ DURATION: 4 WEEKS
 
 MENTOR: NEELA SANTOSH
 
+--
+
 This Simple AI Chatbot is a Python-based chatbot that can recognize greetings, respond to common phrases, and provide basic information using keyword matching. It uses the NLTK for tokenization and provides dynamic responses to user inputs. This project is an starting point for understanding how chatbots work and can be expanded with more  AI features.
 
 ## Features
