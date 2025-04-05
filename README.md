@@ -12,10 +12,9 @@ DURATION: 4 WEEKS
 
 MENTOR: NEELA SANTOSH
 
-# Ai-chatbot-with-nlp
 This Simple AI Chatbot is a Python-based chatbot that can recognize greetings, respond to common phrases, and provide basic information using keyword matching. It uses the NLTK for tokenization and provides dynamic responses to user inputs. This project is an starting point for understanding how chatbots work and can be expanded with more  AI features.
 
-##Features
+## Features
 1. Basic Greeting Recognition: The chatbot responds to common greetings like hello, hi, hey, good morning, etc.
 
 2. Keyword-Based Responses: It recognizes keywords such as place, time, how are you, thank you, and more.
@@ -29,7 +28,7 @@ This Simple AI Chatbot is a Python-based chatbot that can recognize greetings, r
 ## Installation
 before we start the chatbot , we have to have python installed along with the required NLTK package
 
-##How Does it Work
+## How Does it Work
 1. The chatbot reads user input and tokenizes it using NLTK’s word_tokenize().
 
 2. It checks if the input matches a known greeting and responds randomly from a list of greeting responses.
@@ -51,7 +50,7 @@ before we start the chatbot , we have to have python installed along with the re
 
 5. Looping Chat Interface: Runs continuously until the user says "bye".
 
-##LIBRARIES USED
+## LIBRARIES USED
 1. NLTK (Natural Language Toolkit)
 
 Used for tokenizing user input into words.
